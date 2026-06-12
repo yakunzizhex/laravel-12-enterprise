@@ -1,10 +1,12 @@
 # 🚀 Laravel 12 Enterprise Architecture
 
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![PHP](https://img.shields.io/badge/PHP-8.3+-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-12.0-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](docker-compose.yml)
-[![Database](https://img.shields.io/badge/Database-PostgreSQL%2015+-336791?style=flat-square&logo=postgresql&logoColor=white)](config/database.php)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](docker-compose.yml)
+[![Database](https://img.shields.io/badge/Database-PostgreSQL%2015%2B-336791?style=flat-square&logo=postgresql&logoColor=white)](config/database.php)
+[![Cache](https://img.shields.io/badge/Cache-Redis%207%2B-DC382D?style=flat-square&logo=redis&logoColor=white)](config/cache.php)
+[![Security](https://img.shields.io/badge/Security-MFA%2BRBAC-red?style=flat-square)](app/)
 [![Testing](https://img.shields.io/badge/Testing-Pest%2BPHPUnit-black?style=flat-square)](pest.xml)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)]()
 

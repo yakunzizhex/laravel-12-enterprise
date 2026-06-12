@@ -1,6 +1,7 @@
 {
     "name": "enterprise/laravel12-enterprise-architecture",
     "description": "Laravel 12 Enterprise Architecture with Advanced Security, RBAC, and MFA",
+    "license": "MIT",
     "type": "project",
     "require": {
         "php": "^8.3",
